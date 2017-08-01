@@ -1,0 +1,6 @@
+# ninja log v5
+2	266	0	src/ward_1w.o	f7b1a28e60c4668e
+266	386	0	ward_1w	d34891af30794cef
+8	16	0	clean_sa	46ab9549445ac981
+0	8	0	clean_cov	b3de405e02eb7ca8
+16	21	0	clean	d59b6dac04fa9b5d

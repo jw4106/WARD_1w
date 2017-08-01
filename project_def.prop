@@ -1,0 +1,11 @@
+APPNAME = ward_1w
+
+type = app
+profile = wearable-2.3.2
+
+USER_SRCS = src/ward_1w.c
+USER_DEFS =
+USER_INC_DIRS = inc
+USER_OBJS =
+USER_LIBS =
+USER_EDCS =

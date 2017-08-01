@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.2" package="org.example.ward_1w" version="1.0.0">
+    <profile name="wearable"/>
+    <ui-application appid="org.example.ward_1w" exec="ward_1w" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>ward_1w</label>
+        <icon>ward_1w.png</icon>
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/externalstorage.appdata</privilege>
+        <privilege>http://tizen.org/privilege/externalstorage</privilege>
+        <privilege>http://tizen.org/privilege/content.write</privilege>
+        <privilege>http://tizen.org/privilege/filesystem.write</privilege>
+        <privilege>tizen.org/privilege/filesystem.read</privilege>
+    </privileges>
+</manifest>
