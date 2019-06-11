@@ -5,4 +5,4 @@ This application was created using Tizen Studio (C++) as an extension to help re
 
 To learn more about this project, please refer to my research paper [here](https://www.google.com).
 
-![Application Demonstration](https://github.com/jw4106/Ward_1w/blob/master/demo.png ':size=25%')
+![Application Demonstration](https://github.com/jw4106/Ward_1w/blob/master/demow.png ':size=25%')
